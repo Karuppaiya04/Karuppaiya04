@@ -11,7 +11,7 @@
 <p align="center"> <img src=" WhatsApp Image 2024-05-15 at 9.14.04 PM.jpeg…" alt="karuppaiya04" /> </p>
 <a href="#karuppaiya04-title">
   <img src="https://github-readm![WhatsApp Image 2024-05-15 at 9 14 04 PM](https://github.com/Karuppaiya04/Karuppaiya04/assets/146843355/d0281b87-dd31-4887-835e-9c344ccf73ee)
-e-stats.vercel.app/api?username=vmmuthu31&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vairamuthu M" align="right" />
+e-stats.vercel.app/api?username=vmmuthu31&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karuppaiya04" align="right" />
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"24
